@@ -10,4 +10,4 @@
 beglgamer/beglgamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://github.com/user-attachments/assets/601f4fb3-18c1-4989-a8ea-6616ca540a75)
+![giphy](https://github.com/user-attachments/assets/2a90a6c6-c2d8-4413-a361-7a7d1d5536f7)
