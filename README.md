@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @beglgamer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-beglgamer/beglgamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Projekt-Demo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDEzZ3UxbTBzNjdqdndldmVjaHh6bDVuaXI2YW84eTRxcHNtNG1mMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+- 👋 Hallo,Ich bin @beglgamer
+- 👀 Ich kann Java, Java Script, Lua, C++, C#, 
+- 🌱 Ich Lerne gerade CSS, Kotlin
+- 📫 Du kannst mich über discord erreichen, dort heiße ich Beglgamer
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Der Globus dreht sich
+![Projekt-Demo][(https://example.com/dein-animation.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDEzZ3UxbTBzNjdqdndldmVjaHh6bDVuaXI2YW84eTRxcHNtNG1mMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif))
