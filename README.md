@@ -1,6 +1,6 @@
 - 👋 Hallo,Ich bin @beglgamer
 - 👀 Ich kann Java, Java Script, Lua, C++, C#, CSS
-- 🌱 Ich Lerne gerade CSS, Kotlin
+- 🌱 Ich Lerne gerade Kotlin
 - 📫 Du kannst mich über discord erreichen, dort heiße ich Beglgamer
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Der Globus dreht sich
