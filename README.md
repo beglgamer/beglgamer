@@ -1,5 +1,5 @@
 - 👋 Hallo,Ich bin @beglgamer
-- 👀 Ich kann Java, Java Script, Lua, C++, C#, 
+- 👀 Ich kann Java, Java Script, Lua, C++, C#, CSS
 - 🌱 Ich Lerne gerade CSS, Kotlin
 - 📫 Du kannst mich über discord erreichen, dort heiße ich Beglgamer
 - 😄 Pronouns: he/him
