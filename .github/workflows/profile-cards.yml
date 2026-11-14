@@ -1,0 +1,32 @@
+name: Update profile activity cards
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v7
+
+      - name: Generate self-hosted profile cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: Beglgamer
+          cards: overview,languages,rhythm,contributions
+          output-dir: assets
+          themes: light,dark
+          palette: green
+          commit: true

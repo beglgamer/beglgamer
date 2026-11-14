@@ -1,12 +1,9 @@
 name: Generate contribution snake
 
 on:
-  # Regenerate once a day
   schedule:
     - cron: "0 0 * * *"
-  # Allow manual runs from the Actions tab
   workflow_dispatch:
-  # Also regenerate when the profile README changes on main
   push:
     branches:
       - main
@@ -18,7 +15,6 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
