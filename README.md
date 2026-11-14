@@ -1,11 +1,88 @@
+<div align="center">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+<!-- CYBERPUNK TERMINAL HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=39FF14&background=0D022100&center=true&vCenter=true&width=850&height=55&lines=%24+whoami+%E2%86%92+Beglgamer;%3E+Welcome+to+my+cyberpunk+workspace;%24+loading+developer+profile...;%3E+HTML+%7C+CSS+%7C+JavaScript;%3E+Python+%7C+Java+%7C+Swift;%24+status+%E2%86%92+Always+learning+%26+building" alt="Typing terminal animation" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=beglgamer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0221,50:1A0933,100:39FF14&height=140&section=header&text=BEGLGAMER&fontSize=48&fontColor=E8FFE8&animation=fadeIn&fontAlignY=55" width="100%" alt="Cyberpunk header" />
+
+### `> Junior Developer | Web Development | Code & Create`
+
+[![GitHub followers](https://img.shields.io/github/followers/Beglgamer?style=for-the-badge&logo=github&color=39FF14&labelColor=0D0221)](https://github.com/Beglgamer)
+[![Profile views](https://komarev.com/ghpvc/?username=Beglgamer&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS)](https://github.com/Beglgamer)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=beglgamer&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `> about_me.exe`
+
+```bash
+┌──(Beglgamer㉿github)-[~]
+└─$ cat about_me.txt
+
+Hey! I'm Beglgamer 👋
+I enjoy coding, building projects and learning new technologies.
+Currently exploring web development and software development.
+
+┌──(Beglgamer㉿github)-[~]
+└─$ _
+```
+
+- 🌐 Interested in **Web Development**
+- 💻 Building with **HTML, CSS, JavaScript and Python**
+- 🚀 Exploring **Java and Swift**
+- ⚡ Always learning, experimenting and creating
+
+## `> tech_stack --list`
+
+<div align="center">
+
+### Languages & Web
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,swift&theme=dark" alt="HTML, CSS, JavaScript, Python, Java and Swift icons" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" alt="Git, GitHub, VS Code and Visual Studio icons" />
+
+</div>
+
+## `> github_stats --show`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Beglgamer&show_icons=true&hide_border=true&bg_color=0D0221&title_color=39FF14&icon_color=39FF14&text_color=E8FFE8&ring_color=39FF14" alt="Beglgamer GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beglgamer&layout=compact&hide_border=true&bg_color=0D0221&title_color=39FF14&text_color=E8FFE8" alt="Most used languages" />
+
+</div>
+
+## `> activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Beglgamer&bg_color=0D0221&color=E8FFE8&line=39FF14&point=FFFFFF&area=true&area_color=1A0933&hide_border=true" width="98%" alt="Beglgamer GitHub activity graph" />
+
+</div>
+
+## `> contribution_snake --run`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beglgamer/Beglgamer/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beglgamer/Beglgamer/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Beglgamer/Beglgamer/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+$ echo "Thanks for visiting my profile!"
+> Keep coding. Keep creating. Stay curious. ⚡
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:1A0933,100:0D0221&height=100&section=footer" width="100%" alt="Cyberpunk footer" />
+
+</div>
