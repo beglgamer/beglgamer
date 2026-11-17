@@ -101,7 +101,3 @@ $ echo "Thanks for visiting my profile!"
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:1A0933,100:0D0221&height=100&section=footer" width="100%" alt="Cyberpunk footer" />
 
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=39FF14&center=true&vCenter=true&width=680&lines=Thanks+for+visiting+my+profile%21;Keep+coding.;Keep+creating.;Stay+curious.+%E2%9A%A1" alt="Thanks for visiting my profile! Keep coding. Keep creating. Stay curious. ⚡" />
-</p>
